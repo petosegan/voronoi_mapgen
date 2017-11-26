@@ -8,7 +8,9 @@ piston = "0.33.0"
 piston2d-graphics = "0.21.1"
 pistoncore-glutin_window = "0.39.0"
 piston2d-opengl_graphics = "0.46.0"
-voronoi = {path = "../voronoi_gen"}
+# for testing local version of rust_voronoi:
+# voronoi = {path = "../voronoi_gen"}
+voronoi = "0.1.3"
 stopwatch = "0.0.7"
 log = "0.3"
 env_logger = "0.4.3"
